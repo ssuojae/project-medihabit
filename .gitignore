@@ -1,0 +1,12 @@
+# macOS에서 생성되는 불필요한 파일들
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+# Docker로 생성된 폴더
+postgres_data/
+redis_data/
+
+# 환경 변수 파일
+.env
