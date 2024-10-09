@@ -1,4 +1,4 @@
-package com.example.practive_pagination
+package com.example.medihabit
 
 import io.flutter.embedding.android.FlutterActivity
 

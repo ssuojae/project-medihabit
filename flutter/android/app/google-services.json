@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774100825537",
+    "project_id": "medihabit-74204",
+    "storage_bucket": "medihabit-74204.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774100825537:android:29d81c8efe7e604130eb40",
+        "android_client_info": {
+          "package_name": "com.suojae.medihabit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJllJD4DPhEWGktqWLBnO-YXttZkEXzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
